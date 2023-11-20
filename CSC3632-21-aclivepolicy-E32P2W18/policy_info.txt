@@ -1,0 +1,7 @@
+
+If ICNQ is True, then P evaluates to Permit;
+else if ICNQ is Unknown, then P evaluates to Indeterminate(PD);
+else if both MHZK and FNQW are True, then P evaluates to Permit;
+otherwise P evaluates to Deny. 
+
+The address for the script is: http://10.0.0.6/ctf_deploy/aclivepolicy/Q8hATzcqDa/A.php
